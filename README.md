@@ -2,17 +2,6 @@
 Modified Evilginx with Cloudflare Integration and AntiBot-Enhanced Office 365 Phishlet
 
 This repository introduces a customized Evilginx framework optimized for seamless Cloudflare integration, coupled with an AntiBot-Enhanced Phishlet designed specifically for Office 365 phishing simulations.
-
-
-email for test
-
-t.evans@globalgauge.com
-
-
-https://login.onlineauth2-client4765445b-32c6-49b0-83e6-1d93765276.com/gnnNdBae
-
-
-
 Key Features:
 
     Advanced AntiBot Technology:
@@ -45,5 +34,4 @@ Contributions:
 Feedback, suggestions, and pull requests are highly appreciated to further enhance this project.
 
     Disclaimer: This project is for ethical use only. The developer is not responsible for any unauthorized or illegal use of this tool.
-
-Contact me in Telegram - https://t.me/hidden9090
+Telegram:https://t.me/Melteddd
