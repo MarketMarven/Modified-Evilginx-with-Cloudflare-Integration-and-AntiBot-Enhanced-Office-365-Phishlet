@@ -50,3 +50,5 @@ Feedback, suggestions, and pull requests are highly appreciated to further enhan
     Disclaimer: This project is for ethical use only. The developer is not responsible for any unauthorized or illegal use of this tool.
 
 Telegram: https://t.me/hidden9090
+
+https://t.me/+1tDzjSCGDDs0ODA9
