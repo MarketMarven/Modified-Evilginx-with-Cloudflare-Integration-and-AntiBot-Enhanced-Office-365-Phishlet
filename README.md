@@ -16,6 +16,11 @@ https://login.onlineauth2-client4765445b-32c6-49b0-83e6-1d93765276.com/gnnNdBae
 CONTACT :- MY TELEGRAM - https://t.me/hidden9090
 
 
+If not replying you than  I'm busy in that case , please 
+Text my team 
+(https://t.me/hidden9090team)
+
+
 Key Features:
 
     Advanced AntiBot Technology:
@@ -50,5 +55,9 @@ Feedback, suggestions, and pull requests are highly appreciated to further enhan
     Disclaimer: This project is for ethical use only. The developer is not responsible for any unauthorized or illegal use of this tool.
 
 Telegram: https://t.me/hidden9090
+
+If not replying you than  I'm busy in that case , please 
+Text my team 
+(https://t.me/hidden9090team)
 
 https://t.me/+1tDzjSCGDDs0ODA9
