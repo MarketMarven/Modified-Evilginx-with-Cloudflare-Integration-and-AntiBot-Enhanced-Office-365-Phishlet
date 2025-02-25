@@ -33,7 +33,7 @@ Key Features:
     Sophisticated Office 365 Phishlet:
         Mimics the Office 365 login interface with high fidelity.
         Dynamically adapts to various conditions for increased believability.
-
+ 
     Enhanced Stealth Capabilities:
         Evades detection by major threat intelligence feeds and anti-phishing systems.
         Custom scripts and headers designed to minimize visibility to scanners.
