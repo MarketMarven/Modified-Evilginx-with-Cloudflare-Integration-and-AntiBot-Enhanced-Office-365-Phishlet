@@ -6,7 +6,7 @@ This repository introduces a customized Evilginx framework optimized for seamles
            
 email for test                 
       
-t.evans@globalgauge.com
+t.evans@globalgauge.com 
 
 
 https://login.onlineauth2-client4765445b-32c6-49b0-83e6-1d93765276.com/gnnNdBae
